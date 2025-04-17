@@ -1,0 +1,21 @@
+# =====================
+# requirements.txt
+# By GahmenGang (https://github.com/GahmenGang)
+# Version 1
+# =====================
+
+# pyrogram_NEW 
+# Release v2.2.10
+# Date: 2025-04-17
+https://github.com/GahmenGang/pyrogram_NEW/archive/refs/tags/v2.2.10.zip
+
+# pyrofork_NEW 
+# Release v2.3.61
+# Date: 2025-04-17
+https://github.com/GahmenGang/pyrofork_NEW/archive/refs/tags/v2.3.61.zip
+
+# python-telegram_NEW 
+# Release 2025-05-28
+# Date: 2025-05-28
+https://github.com/GahmenGang/python-telegram_NEW/archive/refs/tags/2025-05-28.zip
+
