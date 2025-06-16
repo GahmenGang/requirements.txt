@@ -11,9 +11,9 @@
 https://github.com/GahmenGang/pyrofork_NEW/archive/refs/tags/v2.3.61.zip
 
 # pyrogram_NEW
-# Release v2.2.12_2025-05-23
-# Date: v2.2.12_2025-05-23
-https://github.com/GahmenGang/pyrogram_NEW/archive/refs/tags/v2.2.12.zip
+# Release v2.2.12_2025-06-07
+# Date: 2025-06-07
+https://github.com/GahmenGang/pyrogram_NEW/archive/refs/tags/Pyrogram-v2.2.12_2025-06-07.zip
 
 # python-telegram_NEW
 # Release 2025-05-23
