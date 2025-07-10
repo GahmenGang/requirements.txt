@@ -20,5 +20,8 @@ https://github.com/GahmenGang/pyrogram_NEW/archive/refs/tags/Pyrogram-v2.2.12_20
 # Date: 2025-06-26
 https://github.com/GahmenGang/python-telegram_NEW/archive/refs/tags/2025-06-26.zip
 
-
+# pyromod_NEW
+# Release v3.1.0
+# Date: 2025-03-27
+https://github.com/GahmenGang/pyromod_NEW/archive/refs/tags/v3.1.0.zip
 
